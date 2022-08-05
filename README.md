@@ -1,5 +1,7 @@
 # lmproj
 
+# IMPORTANT: This is a unfinished version, the next step is change to online version, then must be need to change few function or effect.
+
 # This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap
 
 # Up to now it's expended 28h, and my friend was pass his oral defense, so this project may don't have update anymore
