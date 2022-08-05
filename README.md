@@ -1,24 +1,11 @@
 # lmproj
 
-## Project setup
-```
-npm install
-```
+# This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Up to now expended 52h to complete, and my friend was pass his oral defense, so this project may don't have update anymore
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# This is the last version of the project with offline before it's changed to online verison, if you want the online version please looking for the another repository which name is lmproj, but the server is down, and no longer work again
 
-### Lints and fixes files
-```
-npm run lint
-```
+# The test account of administrator is "admin", password is "123"
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# And the student's is "student", password is "123"
