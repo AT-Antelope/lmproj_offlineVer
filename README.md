@@ -1,6 +1,6 @@
 # lmproj
 
-# IMPORTANT: This is a unfinished version, the next step is change to online version, then must be need to change few function or effect.
+# IMPORTANT: This is a unfinished version's backup, the next version will change to online version, then must be need to change few of function or effect.
 
 # This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap
 
