@@ -2,7 +2,7 @@
 
 # IMPORTANT: This is a backup of unfinished version, and the next version will changing to online version, then must be need to change few of function or effect.
 
-# This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap.
+# This is just a project to help a friend to pass his oral defense with only can use vue and bootstrap.
 
 # Up to now it's expended 28h, and my friend was pass his oral defense, so this repository may don't have update anymore.
 
