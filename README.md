@@ -1,12 +1,12 @@
 # lmproj
 
-# IMPORTANT: This is a unfinished version's backup, the next version will change to online version, then must be need to change few of function or effect.
+# IMPORTANT: This is a backup of unfinished version, and the next version will changing to online version, then must be need to change few of function or effect.
 
-# This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap
+# This is just a project to help a friend to pass the oral defense with only can use vue and bootstrap.
 
-# Up to now it's expended 28h, and my friend was pass his oral defense, so this project may don't have update anymore
+# Up to now it's expended 28h, and my friend was pass his oral defense, so this repository may don't have update anymore.
 
-# This is the last version of the project with offline before it's changed to online verison, if you want the online version please looking for the another repository which name is lmproj, but the server is down, and no longer work again
+# This is the last version of the project with offline before it's changed to online verison, if you want the online version please looking for the another repository which name is lmproj, but the server was down, and may have no longer work again.
 
 # The test account of administrator is "admin", password is "123"
 
